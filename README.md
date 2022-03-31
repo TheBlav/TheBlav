@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TheBlav
 - 👀 I’m interested in ... all of IT stuff.
 - 🌱 I’m currently learning Java!
-- 💞️ I’m looking to collaborate on learning on getting a better job (doing my best to change onto IT business from others)
+- 💞️ I’m looking to collaborate on learning or getting a better job (doing my best to change onto IT business from others)
 - 📫 How to reach me: maile me to thisblav@gmail.com
 
 <!---
